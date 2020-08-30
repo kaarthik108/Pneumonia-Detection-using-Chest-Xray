@@ -1,1 +1,1 @@
-# Deep-Learning-Car-Brand
+# Deep-Learning-Pneumonia-Detection
